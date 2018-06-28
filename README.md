@@ -7,7 +7,7 @@ This library is used to control one or more stepper motors.  The motors are acce
 ## Documentation:
 For documentation and a hookup guide, go to:
 
-​     https://github.com/Stan-Reifel/SpeedyStepper​
+​    https://github.com/Stan-Reifel/SpeedyStepper
 
 ## License:
 Copyright (c) 2018 S. Reifel & Co.   -   Licensed under the MIT license.
