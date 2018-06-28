@@ -11,7 +11,11 @@
 // Available on Amazon at very low cost is a stepper driver board shield for 
 // the Arduino Uno. It is called the "CNC V3 Shield".  It supports up to 
 // 4 steppers.  This example shows how to use it.
-// 
+//  
+//
+// Documentation at:
+//         https://github.com/Stan-Reifel/SpeedyStepper
+//
 //
 // For all driver boards, it is VERY important that you set the motor 
 // current before running the example.  This is typically done by adjusting
