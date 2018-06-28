@@ -9,7 +9,7 @@ This Arduino library is used to control one or more stepper motors.  The motors 
 SpeedyStepper requires that your stepper motor be connected to the Arduino using drive electronics having a "Step and Direction" interface.  For a hookup guide, go to:
      https://github.com/Stan-Reifel/SpeedyStepper
 
-Examples of these are:
+Examples of Stepper Motor Driver Boards are:
 
   Pololu's DRV8825 Stepper Motor Driver Carrier:
       https://www.pololu.com/product/2133
