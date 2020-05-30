@@ -34,7 +34,7 @@
 #ifndef SpeedyStepper_h
 #define SpeedyStepper_h
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <stdlib.h>
 
 
